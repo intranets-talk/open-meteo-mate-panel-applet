@@ -1,0 +1,3 @@
+[D-BUS Service]
+Name=org.mate.panel.applet.OpenMeteoWeatherAppletFactory
+Exec=/usr/lib/mate-panel/open_meteo_weather_applet.py

@@ -1,0 +1,11 @@
+[Applet Factory]
+Id=OpenMeteoWeatherAppletFactory
+InProcess=false
+Location=/usr/lib/mate-panel/open_meteo_weather_applet.py
+Name=Open-Meteo Weather Applet Factory
+Description=Weather applet using Open-Meteo API
+
+[OpenMeteoWeatherApplet]
+Name=Open-Meteo Weather
+Description=Shows current temperature and a 5-day forecast from Open-Meteo
+Icon=weather-clear
