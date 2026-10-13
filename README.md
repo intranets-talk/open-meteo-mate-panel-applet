@@ -83,6 +83,12 @@ SHOW_UNIT_IN_PANEL = False   # True → "15°C"   False → "15°"
 
 Restart the panel (or remove + re-add the applet) after changing this.
 
+## Notes on desktop theme color
+
+- The temperature shown in the panel is fine on both dark and light themes.
+- The popup menu, is currently hard-coded for dark themes (white / light-grey text). On a light theme those colors become almost invisible.
+- Remove all the foreground='...' attributes so the menu text follows the normal GTK theme colours. This will work for both dark and light desktop themes.
+
 ## License
 
 MIT / do whatever you want. Weather data © Open-Meteo.
