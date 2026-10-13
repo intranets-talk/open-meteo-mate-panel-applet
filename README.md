@@ -1,6 +1,6 @@
 # Open-Meteo Weather Applet for MATE Desktop
 
-A **MatePanelApplet** that shows the current temperature as text in the panel and opens a 5-day forecast on click.
+A **MatePanelApplet** that shows the current temperature as text in the panel and opens a 5-day forecast on click. Simple stuff, nothing fancy. 
 
 Uses the free [Open-Meteo](https://open-meteo.com/) API (no API key required).
 
