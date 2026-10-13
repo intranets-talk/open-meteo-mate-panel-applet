@@ -2,6 +2,8 @@
 
 A **MatePanelApplet** that shows the current temperature as text in the panel and opens a 5-day forecast on click. Simple stuff, nothing fancy. 
 
+Applet optimized for dark desktop themes.
+
 Uses the free [Open-Meteo](https://open-meteo.com/) API (no API key required).
 
 ## Features
